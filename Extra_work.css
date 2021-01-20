@@ -611,3 +611,14 @@ input:checked ~ .details1
         width: 100%;
     }
 }
+.card-6
+{
+    position: relative;
+    width: 300px;
+    height: 400px;
+    background: #262626;
+    overflow: hidden;
+    bottom: 99.1%;
+    left: 1.5%;
+    
+}
